@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Andrii Shylenko</h1>
+<h3 align="center">Embedded Software Engineer</h3>
+I am connecting machines 💙 to the cloud. 
 
-<!--
-**w1ne/w1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> I work in Research and development for IoT systems, from the specification to architecture, inclufing firmware, validation and production. </p>
 
-Here are some ideas to get you started:
+- 📝 I regulary write articles on [https://shylenko.com](https://shylenko.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Firmware, IoT, Robots**
+
+- 📫 How to reach me **andrii@shylenko.com**
+
+### Webpare
+<!-- BLOG-POST-LIST:START -->
+- [My webpage](https://shylenko.com)
+<!-- BLOG-POST-LIST:END -->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1ne&layout=compact&hide=html" alt="w1ne" /></p>
+
+<p align="center">
+alt="codepo8" height="30" width="30" /></a>
+<a href="https://twitter.com/AndriiShylenko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codepo8" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/andriishylenko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christianheilmann" height="30" width="30" /></a>
+
+</p>
