@@ -10,7 +10,7 @@ I am connecting machines 💙 to the cloud.
 
 - 📫 How to reach me **andrii@shylenko.com**
 
-### Webpare
+### Resources
 <!-- BLOG-POST-LIST:START -->
 - [My webpage](https://shylenko.com)
 <!-- BLOG-POST-LIST:END -->
