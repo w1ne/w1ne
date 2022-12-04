@@ -2,7 +2,7 @@
 <h3 align="center">Embedded Software Engineer</h3>
 I am connecting machines 💙 to the cloud. 
 
-<p> I work in Research and development for IoT systems, from the specification to architecture, inclufing firmware, validation and production. </p>
+<p> I work in Research and development for IoT systems, from the specification to architecture, including firmware, validation and production. </p>
 
 - 📝 I regulary write articles on [https://shylenko.com](https://shylenko.com)
 
