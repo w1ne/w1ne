@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrii Shylenko</h1>
 <h3 align="center">Firmware and Hardware Engineer</h3>
-I am connecting machines 💙 to the cloud. 
+Connecting machines 💙 to the cloud. 
 
 <p> I work in Research and development for IoT systems, from the specification to architecture, including firmware, validation and production. </p>
 
