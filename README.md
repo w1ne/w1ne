@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrii Shylenko</h1>
-<h3 align="center">Firmware, Hardware and everything beetween</h3>
+<h3 align="center">Firmware, Hardware and everything between</h3>
 Connecting machines to the cloud. 
 
 <p> I develop IoT systems and applications. </p>
