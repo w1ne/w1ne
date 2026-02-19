@@ -10,6 +10,21 @@ Connecting machines to the cloud.
 
 - 📫 How to reach me **andrii@shylenko.com**
 
+### 🚀 Interesting Projects
+
+- **[Aether](https://github.com/w1ne/Aether)** - Open-source embedded debugger with gRPC API for programmatic hardware control.
+- **[Laseryx](https://github.com/w1ne/Laseryx)** - GRBL control of your laser cutter/engraver from your browser.
+- **[iolinki](https://github.com/w1ne/iolinki)** - IO-Link device stack & application prototyping. 
+- **[udslib](https://github.com/w1ne/udslib)** - UDS (Unified Diagnostic Services) stack library.
+- **[ModernFirmwareDevelopment](https://github.com/w1ne/ModernFirmwareDevelopment)** - Best practices on how to build rock solid modern Firmware.
+- **[TheMusketeer](https://github.com/w1ne/TheMusketeer)** - Rudimentary agent synchronization via mutexes.
+
+### 💻 Tech Stack
+
+- **Languages:** C, C++, Rust, Python, TypeScript, JavaScript, HTML/CSS
+- **Hardware/Firmware:** STM32, ESP32, Zephyr, FreeRTOS, GRBL, IO-Link, UDS
+- **IoT/Web:** WebSockets, gRPC, React, Node.js
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1ne&layout=compact&hide=html" alt="w1ne" /></p>
 
 <p align="center">
