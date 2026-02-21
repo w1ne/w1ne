@@ -13,7 +13,7 @@ Connecting machines to the cloud.
 ### 🚀 Interesting Projects
 
 - **[Aether](https://github.com/w1ne/Aether)** - Open-source embedded debugger with gRPC API for programmatic hardware control.
-- **[LAbWired](https://github.com/w1ne/labwired-corer)** - HW simualtion platfor mfo MCUs. Digital twin of your HW device.
+- **[LabWired](https://github.com/w1ne/labwired-corer)** - HW simualation platform for MCUs. Digital twin of your HW device.
 - **[Laseryx](https://github.com/w1ne/Laseryx)** - GRBL control of your laser cutter/engraver from your browser.
 - **[iolinki](https://github.com/w1ne/iolinki)** - IO-Link device stack & application prototyping. 
 - **[udslib](https://github.com/w1ne/udslib)** - UDS (Unified Diagnostic Services) stack library.
