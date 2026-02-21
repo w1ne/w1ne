@@ -17,7 +17,7 @@ Connecting machines to the cloud.
 - **[iolinki](https://github.com/w1ne/iolinki)** - IO-Link device stack & application prototyping. 
 - **[udslib](https://github.com/w1ne/udslib)** - UDS (Unified Diagnostic Services) stack library.
 - **[ModernFirmwareDevelopment](https://github.com/w1ne/ModernFirmwareDevelopment)** - Best practices on how to build rock solid modern Firmware.
-- **[TheMusketeer](https://github.com/w1ne/kernelCAD)** - Agentic CAD, design things for 3d printing in you browser, with the help of IA.
+- **[KernelCAD](https://github.com/w1ne/kernelCAD)** - Agentic CAD, design things for 3d printing in you browser, with the help of IA.
 - **[TheMusketeer](https://github.com/w1ne/TheMusketeer)** - Rudimentary agent synchronization via mutexes.
 
 ### 💻 Tech Stack
