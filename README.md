@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrii Shylenko</h1>
-<h3 align="center">Connecting machines and people/h3>
+<h3 align="center">Connecting machines and people</h3>
 
 Connecting machines and people 
 
