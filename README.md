@@ -5,7 +5,7 @@ Connecting machines and people
 
 <p> I build intelligent systems and hardware </p>
 
-Co-founder of [E N T R ◯• P O R A](https://github.com/Entropora)
+Co-founder at [E N T R ◯• P O R A](https://github.com/Entropora)
 
 - 📝 I regulary write articles on [https://shylenko.com](https://shylenko.com)
 
