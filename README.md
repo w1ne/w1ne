@@ -2,7 +2,9 @@
 <h3 align="center">Firmware, Hardware and everything between</h3>
 Connecting machines to the cloud. 
 
-<p> I develop IoT systems and applications. </p>
+<p> I buikd intelligent systems and hardware </p>
+
+Co-founder of [E N T R ◯• P O R A](https://github.com/Entropora)
 
 - 📝 I regulary write articles on [https://shylenko.com](https://shylenko.com)
 
