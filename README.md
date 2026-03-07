@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrii Shylenko</h1>
 <h3 align="center">Firmware, Hardware and everything between</h3>
-Connecting machines to the cloud. 
 
-<p> I buikd intelligent systems and hardware </p>
+Connecting machines and people 
+
+<p> I build intelligent systems and hardware </p>
 
 Co-founder of [E N T R ◯• P O R A](https://github.com/Entropora)
 
