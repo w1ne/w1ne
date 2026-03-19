@@ -37,5 +37,5 @@ Co-founder at [E N T R ◯• P O R A](https://github.com/Entropora)
 <a href="https://linkedin.com/in/shylenko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shylenko" height="30" width="30" /></a>
 </p>
 
-Do you want to support my work? buymeacoffee.com/3qutj2ucoq 
+Do you want to support my work? [BuyMeACoffee](buymeacoffee.com/3qutj2ucoq)
 I share 25% of donations with Ukrainian civil organisation: https://savelife.in.ua/
