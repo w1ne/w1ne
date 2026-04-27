@@ -22,7 +22,6 @@ Co-founder at [E N T R ◯• P O R A](https://github.com/Entropora)
 - **[udslib](https://github.com/w1ne/udslib)** - UDS (Unified Diagnostic Services) stack library.
 - **[ModernFirmwareDevelopment](https://github.com/w1ne/ModernFirmwareDevelopment)** - Best practices for building rock-solid modern firmware.
 - **[KernelCAD](https://github.com/w1ne/kernelCAD)** - Agentic CAD: design things for 3D printing in your browser with the help of AI.
-- **[TheMusketeer](https://github.com/w1ne/TheMusketeer)** - Rudimentary agent synchronization using mutexes.
 
 ### 💻 Tech Stack
 
