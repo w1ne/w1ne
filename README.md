@@ -3,9 +3,13 @@
 ⭐️ Feel free to follow me - I will follow you back! Let's build together.
 
 <p>I build intelligent systems and hardware.</p>
+
 [Founder at LabWired](https://labwired.com)
+
 [Founder at KernelCAD](https://kernelcad.com)
+
 [Founder at proto.cat](https://proto.cat) - under the development! 🔧
+
 Co-founder at [E N T R ◯• P O R A](https://github.com/Entropora)
 
 - 💬 Ask me about **Firmware, IoT, and Robotics**
