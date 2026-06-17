@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrii Shylenko</h1>
 <h3 align="center">Connecting machines and people</h3>
+
 ⭐️ Feel free to follow me - I will follow you back! Let's build together.
 
 <p>I build intelligent systems and hardware.</p>
