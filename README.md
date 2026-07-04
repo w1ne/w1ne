@@ -27,7 +27,7 @@ Co-founder at [E N T R ◯• P O R A](https://github.com/Entropora)
 - **[LabWired](https://github.com/w1ne/labwired-core)** - Hardware simulation platform for MCUs. A digital twin for your device.
 - **[Laseryx](https://github.com/w1ne/Laseryx)** - Control your GRBL-based laser cutter or engraver from your browser.
 - **[iolinki](https://github.com/w1ne/iolinki)** - IO-Link device stack and application prototyping.
-- **[iolinki-master](https://github.com/w1ne/iolinki-master)** iolink master stack. #reindutralizeEurope
+- **[iolinki-master](https://github.com/w1ne/iolinki-master)** - IO-link master stack. #reindutralizeEurope
 - **[udslib](https://github.com/w1ne/udslib)** - UDS (Unified Diagnostic Services) stack library.
 - **[ModernFirmwareDevelopment](https://github.com/w1ne/ModernFirmwareDevelopment)** - Best practices for building rock-solid modern firmware.
 - **[KernelCAD](https://github.com/w1ne/kernelCAD)** - Agentic CAD: design things for 3D printing in your browser with the help of AI.
