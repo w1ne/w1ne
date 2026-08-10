@@ -9,8 +9,6 @@
 
 [Founder at KernelCAD](https://kernelcad.com)
 
-Co-founder at [E N T R ◯• P O R A](https://github.com/Entropora)
-
 - 💬 Ask me about **Firmware, IoT, and Robotics**
 - 📫 How to reach me: **andrii@shylenko.com**
 
