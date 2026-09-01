@@ -6,6 +6,8 @@
 <p>I build intelligent systems and hardware.</p>
 
 [Founder at LabWired](https://labwired.com)
+[Building robots at Komatachi](https://komatachi.com)
+
 
 - 💬 Ask me about **Firmware, IoT, and Robotics**
 - 📫 How to reach me: **andrii@shylenko.com**
