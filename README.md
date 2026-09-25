@@ -6,8 +6,11 @@
 <p>I build intelligent systems and hardware.</p>
 
 [Founder at LabWired](https://labwired.com)
+
 [Building robots at Komatachi](https://komatachi.com)
+
 [Host of the Budapest Hardware Club, Events, jobs, workshops, fabrication](https://bhw.hu)
+
 [Personal website, Andrii Shylenko](https://shylenkom.com)
 
 
