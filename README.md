@@ -39,8 +39,6 @@
 - **Hardware/Firmware:** STM32, ESP32, Zephyr, FreeRTOS, GRBL, IO-Link, UDS
 - **IoT/Web:** WebSockets, gRPC, React, Node.js
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1ne&layout=compact&hide=html" alt="w1ne" /></p>
-
 <p align="center">
 <a href="https://twitter.com/AndriiShylenko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="w1ne" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/shylenko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shylenko" height="30" width="30" /></a>
